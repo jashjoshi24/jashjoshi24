@@ -67,6 +67,8 @@ $ whoami --verbose
 - TraceIQ - Network Forensic Platform
 - SOARVault - Incident Containment Engine
 - HealthTech_Automated-PHI-PII-Redaction-Pipeline-for-LLMs
+- SkillForge AI — Personalized Learning & Career Mentor
+
 
 
 </td>
@@ -140,7 +142,7 @@ TraceIQ is a web-based Network Forensics and PCAP Analysis Platform designed to 
 
 `Python` `Scapy` `Tech`
 
-[**https://github.com/jashjoshi24/TraceIQ.git**](#) · [**Writeup**](#)
+[**Code**](https://github.com/jashjoshi24/TraceIQ.git) · [**Writeup**](#)
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -153,7 +155,7 @@ Built with a role-based dashboard, SIEM integrations, threat intelligence enrich
 
 `Tech` `Tech` `Tech`
 
-[**Code**](#) · [**Demo**](#)
+[**Code**](https://github.com/Mantra-17/SOARVault.git) · [**Demo**](#)
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -166,7 +168,16 @@ Implemented reversible pseudonymization with a Redis-based TTL vault, ensuring s
 
 `Tech` `Tech` `Tech`
 
-[**Code**](#) · [**Demo**](#)
+[**Code**](https://github.com/Mantra-17/HealthTech_Automated-PHI-PII-Redaction-Pipeline-for-LLMs.git) · [**Demo**](https://jovial-pony-4203e1.netlify.app/)
+
+### SkillForge AI — Personalized Learning & Career Mentor
+
+Developed **SkillForge AI**, a personalized AI-powered career mentor that analyzes user skills and gaps to generate customized learning roadmaps, project recommendations, certifications, and interview preparation. Built secure authentication, progress analytics, recommendation APIs, and an interactive Skill Cartography system that visualizes real-time skill growth and career progression.
+
+
+`Tech` `Tech` `Tech`
+
+[**Code**](https://github.com/jashjoshi24/SkillForge-AI.git) · [**Demo**](https://skill-forge-ai-alpha.vercel.app/)
 
 </td>
 </tr>
