@@ -140,7 +140,7 @@ TraceIQ is a web-based Network Forensics and PCAP Analysis Platform designed to 
 
 `Python` `Scapy` `Tech`
 
-[https://github.com/jashjoshi24/TraceIQ.git](#) · [**Writeup**](#)
+[**https://github.com/jashjoshi24/TraceIQ.git**](#) · [**Writeup**](#)
 
 </td>
 <td width="33%" valign="top" align="center">
