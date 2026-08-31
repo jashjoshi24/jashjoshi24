@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:0f3443,100:00e5a0&height=200&section=header&text=Jash%20Joshi&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Cybersecurity%20%C2%B7%20Networking%20%C2%B7%20Offensive%20%26%20Defensive%20Security&descAlignY=56&descSize=16" />
+<img width="100%" src="68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3030303030302c34353a3066333434332c3130303a303065356130266865696768743d3230302673656374696f6e3d686561646572.svg" />
 
 <a href="https://github.com/jashjoshi24">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=00E5A0&center=true&vCenter=true&width=700&lines=Cybersecurity+%26+Networking+Enthusiast;I+break+things+so+they+can+be+built+safer;Packets%2C+Payloads+and+Post-Mortems;Securing+what+everyone+else+assumes+is+safe" alt="Typing SVG" />
