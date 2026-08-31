@@ -253,9 +253,9 @@ Developed **SkillForge AI**, a personalized AI-powered career mentor that analyz
 
 ## &nbsp;✍️ &nbsp;Beyond the Terminal
 
-- 📝 Solved morethan 5 CTFs
+- 📝 Solved more than 5 CTFs
 - 🎖️ Student Coordinator @ CyberKavach Club - CSE , CSPIT
-- Coordinated morethan 5 events
+- Coordinated more than 5 events
 
 <br/>
 
